@@ -1,0 +1,12 @@
+      .card{
+        background-color: lightgray;
+        margin: 100px; 
+      }
+      .button{
+        cursor: pointer;
+      }
+      body{
+        margin: 0;
+        padding: 0;
+        background-color: #DCDCDC;
+      }
